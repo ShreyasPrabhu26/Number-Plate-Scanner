@@ -1,6 +1,6 @@
 #VS-Code Files
 .vscode/
-plateImages/
+.idea
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

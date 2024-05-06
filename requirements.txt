@@ -1,0 +1,6 @@
+opencv-python
+pytesseract
+Pillow
+numpy
+cvzone
+python-barcode
